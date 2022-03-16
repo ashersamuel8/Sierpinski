@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array",
+				"array"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"pri",
+				"println"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/samuelasher/Desktop/CS111/classes/data types",
+		"/Users/samuelasher/Desktop/CS111/classes/TestingString.java",
+		"/Users/samuelasher/Desktop/CS111/projects/practice.java",
+		"/Users/samuelasher/Desktop/CS111/classes/BreakContinueStatements.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Methods.java",
+		"/Users/samuelasher/Desktop/CS111/classes/TVGuide.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Class 09.19.2019.docx",
+		"/Users/samuelasher/Desktop/CS111/classes/recursion",
+		"/Users/samuelasher/Desktop/CS111/classes/Bunnyears.java",
+		"/Users/samuelasher/Desktop/CS111/classes/RecursionFactorial.java",
+		"/Users/samuelasher/Desktop/CS111/projects/Hadamard.java",
+		"/Users/samuelasher/Desktop/CS111/assignments/HadamardMatrix.java",
+		"/Users/samuelasher/Desktop/CS111/assignments/HelloWorld.java",
+		"/Users/samuelasher/Desktop/HadamardMatrix.java",
+		"/Users/samuelasher/Desktop/CS111/assignments/RandomWalker.java",
+		"/Users/samuelasher/Desktop/CS111/assignments/RandomWalker2.java",
+		"/Users/samuelasher/Desktop/CS111/recitations/EquilateralTriangle.java",
+		"/Users/samuelasher/Desktop/CS111/recitations/GuessingGame.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Math111.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Methods of functions",
+		"/Users/samuelasher/Desktop/CS111/projects/Arrays.java",
+		"/Users/samuelasher/Desktop/CS111/projects/MakeUpExam.java",
+		"/Users/samuelasher/Desktop/CS111/projects/Stars.java",
+		"/Users/samuelasher/Desktop/CS111/projects/NumbersToString.java",
+		"/Users/samuelasher/Desktop/CS111/assignments/WCS111FM.java",
+		"/Users/samuelasher/Desktop/CS111/assignments/TrainTicket.java",
+		"/Users/samuelasher/Desktop/CS111/assignments/LuckySevens.java",
+		"/Users/samuelasher/Downloads/cs111-a3/WCS111FM.java",
+		"/Users/samuelasher/Downloads/cs111-a3/LuckySevens.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Variables.java",
+		"/Users/samuelasher/Desktop/CS111/assignments/WindChill.java",
+		"/Users/samuelasher/Desktop/CS111/assignments/BinaryIn.java",
+		"/Users/samuelasher/Desktop/CS111/recitations/HorizontalPyramid.java",
+		"/Users/samuelasher/Desktop/CS111/recitations/Average.java",
+		"/Users/samuelasher/Desktop/CS111/classes/TestIO.java",
+		"/Users/samuelasher/Desktop/CS111/recitations/Matrix.java",
+		"/Users/samuelasher/Desktop/CS111/recitations/Arrayaverage.java",
+		"/Users/samuelasher/Desktop/CS111/classes/ArrayShiftingLeft.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Grades.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Arrays.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Triangle.java",
+		"/Users/samuelasher/Desktop/CS111/recitations/SpeedingTickets.java",
+		"/Users/samuelasher/Desktop/CS111/recitations/Vote.java",
+		"/Users/samuelasher/Desktop/CS111/recitations/Summation.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Triangle.class",
+		"/Users/samuelasher/Desktop/CS111/recitations/Recitation2.java",
+		"/Users/samuelasher/Desktop/CS111/classes/Stars.java"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PolygonTransform.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
