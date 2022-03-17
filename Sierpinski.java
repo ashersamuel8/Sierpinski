@@ -40,7 +40,7 @@ public class Sierpinski {
     // whose bottom-left vertex is (0, 0) and bottom-right vertex is (1, 0); and
     // draws a Sierpinski triangle of order n that fits snugly inside the outline.
     public static void main(String[] args) {
-
+  
         int n = StdIn.readInt();
         double a[] = { 0, 0.5, 1};
         double b[] = { 0, (Math.sqrt(3))/2 , 0};
